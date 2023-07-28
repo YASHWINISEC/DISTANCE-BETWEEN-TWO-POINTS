@@ -15,6 +15,7 @@ print the program using distance formula
 End the program
 ### PROGRAM:
 ```
+#Program to find the distance between two points
 import math
 list1=[10,6]
 list2=[4,2]
