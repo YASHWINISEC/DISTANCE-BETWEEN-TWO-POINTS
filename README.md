@@ -8,7 +8,7 @@ Import the function math
 ### Step 2: 
 Get the list from the user
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/DISTANCE-BETWEEN-TWO-POINTS/formula.JPG)
+Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 print the program using distance formula
 ### Step 5: 
@@ -24,7 +24,8 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![output](/DISTANCE-BETWEEN-TWO-POINTS/output.png)
+![output](/output.png)
+
 
 ### RESULT:
 The distance between two points is successfully executed. 
